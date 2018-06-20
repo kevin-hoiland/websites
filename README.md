@@ -8,7 +8,7 @@ I've probably made dozens of websites since the late 1990s.  But don't get me wr
 This is my only real public repo on github. It was for a C Corporation I established in the early 2010s.  Basically a chewing gum focused environment with social interactions and a web storefront. The site is no longer up, but there's lots more info available at [International Gum Repository](https://github.com/kevin-hoiland/intlgum "Intl Gum").
 
 ### Skyline Christmas Tree Farm
-This is a website I made for a Christmas tree farm which lets customers come out and cut their own tree. Pretty fun place :-) The site is still up at [www.skylinechristmastreefarm.com](http://www.skylinechristmastreefarm.com)
+This is a website I made for a Christmas tree farm which lets customers come out and cut their own tree. Pretty fun place :christmas_tree: The site is still up at [www.skylinechristmastreefarm.com](http://www.skylinechristmastreefarm.com)
 
 ## Other
 
