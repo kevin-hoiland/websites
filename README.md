@@ -12,9 +12,9 @@ This is a website I made for a Christmas tree farm which lets customers come out
 
 ## Other
 
-* My wife owns LLC for various work and her website for children's books is live at [www.bydilly.com](http://www.bydilly.com "byDilly LLC")
-* My Uncle Bob has a website to link other places and display his books, it's live at [www.penandprint.com](http://www.penandprint.com)
-* Other family and friend small sites to support various needs, such as someone running for a political office or raising money for a big combined birthday gift.
+* My wife writes children's books for fun and a website for her LLC is live at [www.bydilly.com](http://www.bydilly.com "byDilly LLC")
+* An uncle wanted a hub to link people to other content and also display his books which are for sale. This site is live at [www.penandprint.com](http://www.penandprint.com)
+* Numerous other family and friends have requested small sites to support various needs, such as someone running for a political office or raising money for a big combined birthday gift. Most of these sites are no longer live.
 
 ## My Personal Site
 
